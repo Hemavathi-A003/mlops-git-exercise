@@ -1,7 +1,7 @@
 class HelloWorld:
     @staticmethod
     def main():
-        print("Hello, World!")
+        print("Hello, Hema!")
         print("Hello, India!")
 
 
